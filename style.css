@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    }
+
+h1{
+        padding-top: 10%;
+        font-weight: 700;
+        font-size: 65px;
+        line-height: 76px;
+        color: #151414;
+    }
+
+    h3{
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 35px;
+        margin-top: 7%;
+        color: #151414;
+    }
+    p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-top: 2%;
+    }
+
+    .btn1{
+        background-color: white;
+        color: rgba(252, 99, 11, 0.884);
+        border: none;
+        margin-top: 2%;
+        padding: 15px;
+        font-size: 18px;
+        border-radius: 5px;
+        }
+    
+    
+header {
+   
+    background-image: url("images/banner/banner2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+ 
+}
+.header_text{
+    text-align: right;
+
+}
+ 
+.header_text p{
+    padding-left: 60%;
+    
+    
+}
+
+.header_text .btn{
+    background-color: rgba(252, 99, 11, 0.884);
+    color: white;
+    border: none;
+    margin-top: 2%;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 5px;
+    
+}
+
+.failer{
+display: flex;
+}
+
+.failer_list_left {
+    width: 50%;
+    margin:  50px ;
+    
+}
+
+.img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.failer_list_right {
+    width: 50%;
+    margin: 50px;
+    margin-top: 170px;
+}
+
+
+.failer_list_right p{
+margin-top: 4%;
+
+ }
+
+  li{
+    
+   
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+ 
+    margin-top: 4%;
+    color: #444343;
+     }
+
+     .plan_info{
+        text-align: center;
+        padding-bottom: 5%;
+        
+     }
+     .plan_list{
+        display: flex;
+        justify-content: space-around;
+     }
+    
+     
+     .plan_info h2{
+        margin: 10%;
+     }
+     .plan p{
+        font-size: 25px;
+     }
+
+    .contact_us{
+        
+        border-radius: 10px;
+        text-align: left;
+        margin: 100px 0 150px 0;
+        padding: 5%;
+        background-image: linear-gradient(to right,  rgb(231, 84, 15) ,rgba(255,0,0,0)) , url('images/watch.png');
+        background-repeat: no-repeat;
+    }
+
+    .contact_us h2{
+        color: white;
+        width: 50%;
+
+    }
+
+    footer{
+        background-color: #151414;
+        
+    }
+    .footer{
+        padding: 50px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .footer_left{
+        width: 50%;
+    }
+    .footer_left h2{
+        color: white;
+        
+    }
+    .footer_left p{
+        color: white;
+        
+    }
+
+    .footer_left li{
+        color: white;
+        list-style: none;   
+    }
+    .footer_left .icon li{
+        color: white;
+        list-style: none;
+        display: flex;  
+      
+    }
+
+
+    
+
